@@ -32,9 +32,13 @@ https://consultorialsantos.com
 
 ## Resumo da Página em Screenshots
 
-![App Screenshot](https://i.postimg.cc/FHRmpcy0/screenshotls1.png)
-![App Screenshot](https://i.postimg.cc/63sXBmDh/screenshotls2.png)
-![App Screenshot](https://i.postimg.cc/hvcRd74z/screenshotls3.png)
-![App Screenshot](https://i.postimg.cc/25LYRDX6/screenshotls4.png)
-![App Screenshot](https://i.postimg.cc/RFnc2Xtf/screenshotls5.png)
+![printls1](https://github.com/user-attachments/assets/b3ce12b8-95a3-4407-8445-9b9781975eca)
+![printls2](https://github.com/user-attachments/assets/275859ad-ff4c-4a90-8140-0e155202a9cc)
+![printls3](https://github.com/user-attachments/assets/6a56bd8d-b9ad-4d8f-a2f6-b43c0ac50caf)
+![printls4](https://github.com/user-attachments/assets/6f6c3404-f419-4c83-af77-794e7c119b43)
+![printls5](https://github.com/user-attachments/assets/b32a30c0-40bb-49df-b29e-7c18683a7998)
+![printls6](https://github.com/user-attachments/assets/608ad50b-7936-4011-9470-b94c9cc9261f)
+![printls7](https://github.com/user-attachments/assets/9cee8bb5-589a-4800-9966-1fb451b23f1c)
+![printls8](https://github.com/user-attachments/assets/6f857147-97b3-403d-b450-61a126e5aad0)
+![printls9](https://github.com/user-attachments/assets/68bbe950-d53b-457b-b9ef-36e721e3b7e7)
 
